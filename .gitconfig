@@ -1,0 +1,6 @@
+[user]
+    name = sirius
+    email = sirius@upchain.com
+
+[core]
+    sshCommand = "ssh -i ~/.ssh/sirius.dev"
